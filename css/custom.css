@@ -1,0 +1,26 @@
+*{
+}
+
+h1{
+text-align: center;
+}
+
+
+p{
+  font-size:40%;
+  text-align: left;
+  text-indent: 35px;
+}
+
+h4{
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+img.align-center {
+  display: block;
+  margin: 0px auto;
+}
