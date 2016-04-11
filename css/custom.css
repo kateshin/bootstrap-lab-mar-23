@@ -1,6 +1,14 @@
 *{
 }
 
+.navbar{
+  color:ff4d4d;
+}
+
+.col-sm-4{
+  bottom: 50px;
+}
+
 h1{
 text-align: center;
 }
@@ -23,4 +31,10 @@ h5 {
 img.align-center {
   display: block;
   margin: 0px auto;
+}
+
+
+
+.col-sm-4 {
+
 }
